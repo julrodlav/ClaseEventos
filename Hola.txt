@@ -4,3 +4,7 @@ Hola esto es un saludo
 Esto genero u  error en la codificación..
 
 Estas lines se adjuntan desde mis archivos locales
+
+
+
+Hola esto se realizó desde el github.....
